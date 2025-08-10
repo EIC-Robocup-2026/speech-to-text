@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain_google_genai
+huggingface_hub
+numpy
+scipy
+python-dotenv
+soundfile
+requests
+webrtcvad-wheels # <-- เพิ่ม library นี้
+PyAudio          # <-- เพิ่ม library นี้
